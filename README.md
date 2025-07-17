@@ -49,7 +49,9 @@ _Вывод:_
 ├── main.go
 ├── internal/
 │ └── app/
-│ └── trending.go
+│      └── request.go
+│ └── build/
+│      └── github-explorer-cli.go
 ├── go.mod
 └── README.md
 ```
